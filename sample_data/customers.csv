@@ -1,0 +1,101 @@
+customer_id,customer_name,type,email,phone,address,city,state,zip_code,is_active
+1,"Tech Solutions Inc","Business","sales@techsolutions.com","+1-555-1001","123 Tech Ave","San Francisco","CA","94105",true
+2,"Global Retail Corp","Business","orders@globalretail.com","+1-555-1002","456 Commerce St","New York","NY","10001",true
+3,"Premium Electronics","Business","contact@premiumelectronics.com","+1-555-1003","789 Electric Blvd","Chicago","IL","60601",true
+4,"John Smith","Individual","john.smith@email.com","+1-555-1004","321 Oak Street","Los Angeles","CA","90001",true
+5,"Sarah Johnson","Individual","sarah.j@email.com","+1-555-1005","654 Pine Avenue","Houston","TX","77001",true
+6,"Mike Williams","Individual","mike.w@email.com","+1-555-1006","987 Maple Drive","Phoenix","AZ","85001",true
+7,"Emily Brown","Individual","emily.b@email.com","+1-555-1007","159 Cedar Lane","Philadelphia","PA","19101",true
+8,"David Miller","Individual","david.m@email.com","+1-555-1008","753 Birch Road","San Antonio","TX","78201",true
+9,"Lisa Davis","Individual","lisa.d@email.com","+1-555-1009","486 Willow Way","San Diego","CA","92101",true
+10,"Robert Wilson","Individual","robert.w@email.com","+1-555-1010","624 Elm Street","Dallas","TX","75201",true
+11,"Corporate Office Supplies","Business","purchasing@corporateoffice.com","+1-555-1011","852 Office Park","Boston","MA","02101",true
+12,"University Bookstore","Business","store@university.edu","+1-555-1012","963 Campus Drive","Austin","TX","78701",true
+13,"Hospital Central","Business","supplies@hospital.com","+1-555-1013","741 Medical Plaza","Seattle","WA","98101",true
+14,"Hotel Grand","Business","procurement@hotelgrand.com","+1-555-1014","852 Luxury Ave","Miami","FL","33101",true
+15,"Restaurant Chain","Business","ordering@restaurantchain.com","+1-555-1015","963 Food Court","Atlanta","GA","30301",true
+16,"Jennifer Taylor","Individual","jennifer.t@email.com","+1-555-1016","357 Spruce Ave","Denver","CO","80201",true
+17,"Kevin Anderson","Individual","kevin.a@email.com","+1-555-1017","468 Poplar St","Portland","OR","97201",true
+18,"Amanda Martinez","Individual","amanda.m@email.com","+1-555-1018","579 Magnolia Dr","Detroit","MI","48201",true
+19,"Christopher Lee","Individual","chris.lee@email.com","+1-555-1019","690 Redwood Rd","Baltimore","MD","21201",true
+20,"Jessica Garcia","Individual","jessica.g@email.com","+1-555-1020","801 Sequoia Ln","Charlotte","NC","28201",true
+21,"School District","Business","purchasing@schooldistrict.org","+1-555-1021","912 Education Blvd","Nashville","TN","37201",true
+22,"Government Office","Business","supplies@govoffice.gov","+1-555-1022","123 Civic Center","Memphis","TN","38101",true
+23,"Nonprofit Org","Business","orders@nonprofit.org","+1-555-1023","234 Charity Way","Louisville","KY","40201",true
+24,"Startup Tech","Business","billing@startuptech.com","+1-555-1024","345 Innovation St","Milwaukee","WI","53201",true
+25,"Consulting Firm","Business","purchasing@consultingfirm.com","+1-555-1025","456 Advisory Ave","Albuquerque","NM","87101",true
+26,"Thomas Rodriguez","Individual","thomas.r@email.com","+1-555-1026","567 Aspen Ct","Tucson","AZ","85701",true
+27,"Michelle Hernandez","Individual","michelle.h@email.com","+1-555-1027","678 Cypress St","Fresno","CA","93701",true
+28,"Daniel King","Individual","daniel.k@email.com","+1-555-1028","789 Dogwood Dr","Sacramento","CA","95801",true
+29,"Melissa Wright","Individual","melissa.w@email.com","+1-555-1029","890 Fir Avenue","Kansas City","MO","64101",true
+30,"Steven Lopez","Individual","steven.l@email.com","+1-555-1030","901 Gum Road","Mesa","AZ","85201",true
+31,"Retail Chain","Business","corporate@retailchain.com","+1-555-1031","112 Retail Park","Virginia Beach","VA","23451",true
+32,"Auto Dealership","Business","parts@autodealer.com","+1-555-1032","223 Auto Mall","Colorado Springs","CO","80901",true
+33,"Construction Co","Business","materials@constructionco.com","+1-555-1033","334 Builders Way","Omaha","NE","68101",true
+34,"Law Firm Partners","Business","office@lawfirm.com","+1-555-1034","445 Justice St","Raleigh","NC","27601",true
+35,"Dental Practice","Business","supplies@dentalpractice.com","+1-555-1035","556 Dental Plaza","Long Beach","CA","90801",true
+36,"Ashley Scott","Individual","ashley.s@email.com","+1-555-1036","667 Hickory Ln","Miami","FL","33125",true
+37,"Brian Green","Individual","brian.g@email.com","+1-555-1037","778 Juniper St","Oakland","CA","94601",true
+38,"Nicole Adams","Individual","nicole.a@email.com","+1-555-1038","889 Locust Dr","Minneapolis","MN","55401",true
+39,"Timothy Baker","Individual","timothy.b@email.com","+1-555-1039","990 Mulberry Rd","Tulsa","OK","74101",true
+40,"Rachel Nelson","Individual","rachel.n@email.com","+1-555-1040","101 Oakwood Ave","Cleveland","OH","44101",true
+41,"Manufacturing Plant","Business","purchasing@manufacturingplant.com","+1-555-1041","212 Factory Row","Wichita","KS","67201",true
+42,"Shipping Company","Business","supplies@shippingco.com","+1-555-1042","323 Port Avenue","Arlington","TX","76001",true
+43,"Warehouse Distributors","Business","orders@warehousedist.com","+1-555-1043","434 Storage Dr","New Orleans","LA","70112",true
+44,"IT Services","Business","billing@itservices.com","+1-555-1044","545 Tech Park","Bakersfield","CA","93301",true
+45,"Marketing Agency","Business","purchasing@marketingagency.com","+1-555-1045","656 Creative St","Anaheim","CA","92801",true
+46,"Joshua Carter","Individual","joshua.c@email.com","+1-555-1046","767 Palm Court","Honolulu","HI","96813",true
+47,"Amber Mitchell","Individual","amber.m@email.com","+1-555-1047","878 Pinecone Ln","Riverside","CA","92501",true
+48,"Justin Perez","Individual","justin.p@email.com","+1-555-1048","989 Redbud St","Santa Ana","CA","92701",true
+49,"Samantha Roberts","Individual","samantha.r@email.com","+1-555-1049","109 Sycamore Dr","Corpus Christi","TX","78401",true
+50,"Patrick Turner","Individual","patrick.t@email.com","+1-555-1050","210 Walnut Rd","Lexington","KY","40502",true
+51,"Fitness Center","Business","supplies@fitnesscenter.com","+1-555-1051","321 Gym Street","Stockton","CA","95201",true
+52,"Daycare Center","Business","orders@daycarecenter.com","+1-555-1052","432 Playground Ave","Pittsburgh","PA","15201",true
+53,"Real Estate Office","Business","office@realestate.com","+1-555-1053","543 Property Ln","St. Louis","MO","63101",true
+54,"Insurance Agency","Business","purchasing@insuranceagency.com","+1-555-1054","654 Coverage Dr","Cincinnati","OH","45201",true
+55,"Travel Agency","Business","supplies@travelagency.com","+1-555-1055","765 Vacation Way","Anchorage","AK","99501",true
+56,"Brandon Phillips","Individual","brandon.p@email.com","+1-555-1056","876 Willow Lane","Plano","TX","75023",true
+57,"Rebecca Campbell","Individual","rebecca.c@email.com","+1-555-1057","987 Yucca St","Lincoln","NE","68501",true
+58,"Jacob Parker","Individual","jacob.p@email.com","+1-555-1058","198 Acacia Dr","Orlando","FL","32801",true
+59,"Victoria Evans","Individual","victoria.e@email.com","+1-555-1059","209 Bayberry Rd","Irvine","CA","92602",true
+60,"Austin Edwards","Individual","austin.e@email.com","+1-555-1060","310 Chestnut Ave","Newark","NJ","07102",true
+61,"Grocery Chain","Business","purchasing@grocerychain.com","+1-555-1061","421 Market St","Durham","NC","27701",true
+62,"Pharmacy Network","Business","orders@pharmacynetwork.com","+1-555-1062","532 Pharmacy Ave","Chula Vista","CA","91909",true
+63,"Bank Branch","Business","supplies@bankbranch.com","+1-555-1063","643 Financial Dr","Fort Wayne","IN","46801",true
+64,"Credit Union","Business","office@creditunion.com","+1-555-1064","754 Money Lane","Jersey City","NJ","07302",true
+65,"Investment Firm","Business","purchasing@investmentfirm.com","+1-555-1065","865 Wall Street","Chandler","AZ","85224",true
+66,"Tyler Collins","Individual","tyler.c@email.com","+1-555-1066","976 Magnolia Ct","Lubbock","TX","79401",true
+67,"Hannah Stewart","Individual","hannah.s@email.com","+1-555-1067","187 Olive St","Madison","WI","53703",true
+68,"Zachary Sanchez","Individual","zachary.s@email.com","+1-555-1068","298 Peach Dr","Gilbert","AZ","85233",true
+69,"Lauren Morris","Individual","lauren.m@email.com","+1-555-1069","309 Plum Rd","Reno","NV","89501",true
+70,"Nathan Rogers","Individual","nathan.r@email.com","+1-555-1070","410 Pear Avenue","North Las Vegas","NV","89030",true
+71,"Entertainment Venue","Business","supplies@entertainmentvenue.com","+1-555-1071","521 Stage Street","Scottsdale","AZ","85250",true
+72,"Movie Theater","Business","orders@movietheater.com","+1-555-1072","632 Screen Ave","Irving","TX","75014",true
+73,"Sports Arena","Business","purchasing@sportsarena.com","+1-555-1073","743 Stadium Dr","Fremont","CA","94536",true
+74,"Museum","Business","office@museum.org","+1-555-1074","854 Gallery Ln","Boise","ID","83701",true
+75,"Library System","Business","supplies@librarysystem.org","+1-555-1075","965 Book Way","Winston-Salem","NC","27101",true
+76,"Megan Reed","Individual","megan.r@email.com","+1-555-1076","176 Cherry Lane","San Bernardino","CA","92401",true
+77,"Cody Cook","Individual","cody.c@email.com","+1-555-1077","287 Apple St","Spokane","WA","99201",true
+78,"Brianna Morgan","Individual","brianna.m@email.com","+1-555-1078","398 Banana Dr","Modesto","CA","95350",true
+79,"Aaron Bell","Individual","aaron.b@email.com","+1-555-1079","409 Orange Rd","Fontana","CA","92335",true
+80,"Vanessa Murphy","Individual","vanessa.m@email.com","+1-555-1080","510 Lemon Ave","Santa Clarita","CA","91350",true
+81,"Transportation Co","Business","purchasing@transportationco.com","+1-555-1081","621 Truck Way","Port St. Lucie","FL","34953",true
+82,"Logistics Firm","Business","supplies@logisticsfirm.com","+1-555-1082","732 Shipping St","Frisco","TX","75033",true
+83,"Delivery Service","Business","orders@deliveryservice.com","+1-555-1083","843 Parcel Dr","Rochester","NY","14602",true
+84,"Courier Company","Business","office@couriercompany.com","+1-555-1084","954 Express Ln","Tacoma","WA","98401",true
+85,"Moving Company","Business","purchasing@movingcompany.com","+1-555-1085","165 Relocation Rd","Oxnard","CA","93030",true
+86,"Kyle Rivera","Individual","kyle.r@email.com","+1-555-1086","276 Mango Ct","Yonkers","NY","10701",true
+87,"Jasmine Cooper","Individual","jasmine.c@email.com","+1-555-1087","387 Papaya St","Aurora","IL","60502",true
+88,"Caleb Richardson","Individual","caleb.r@email.com","+1-555-1088","498 Grape Dr","Glendale","CA","91201",true
+89,"Alexis Cox","Individual","alexis.c@email.com","+1-555-1089","509 Kiwi Rd","Huntington Beach","CA","92646",true
+90,"Ethan Howard","Individual","ethan.h@email.com","+1-555-1090","610 Lime Avenue","Moreno Valley","CA","92553",true
+91,"Energy Company","Business","supplies@energycompany.com","+1-555-1091","721 Power St","Little Rock","AR","72201",true
+92,"Utility Provider","Business","orders@utilityprovider.com","+1-555-1092","832 Service Ave","Amarillo","TX","79101",true
+93,"Telecom Company","Business","purchasing@telecomcompany.com","+1-555-1093","943 Signal Dr","Columbus","GA","31901",true
+94,"Cable Provider","Business","office@cableprovider.com","+1-555-1094","154 Connection Ln","Montgomery","AL","36104",true
+95,"Internet Service","Business","supplies@internetservice.com","+1-555-1095","265 Web Way","Augusta","GA","30901",true
+96,"Mackenzie Ward","Individual","mackenzie.w@email.com","+1-555-1096","376 Berry Lane","Birmingham","AL","35203",true
+97,"Connor Torres","Individual","connor.t@email.com","+1-555-1097","487 Melon St","Grand Rapids","MI","49501",true
+98,"Sabrina Peterson","Individual","sabrina.p@email.com","+1-555-1098","598 Coconut Dr","Huntsville","AL","35801",true
+99,"Dylan Gray","Individual","dylan.g@email.com","+1-555-1099","609 Avocado Rd","Salt Lake City","UT","84101",true
+100,"Isabella James","Individual","isabella.j@email.com","+1-555-1100","710 Fig Avenue","Tallahassee","FL","32301",true

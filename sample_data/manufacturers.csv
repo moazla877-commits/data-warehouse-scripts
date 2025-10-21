@@ -1,0 +1,101 @@
+manufacturer_id,manufacturer_name,country,contact_email,phone,is_active
+1,"Global Tech Inc","USA","contact@globaltech.com","+1-555-0101",true
+2,"Euro Electronics","Germany","info@euroelec.de","+49-30-123456",true
+3,"Asia Components Ltd","Japan","sales@asiacomp.jp","+81-3-9876-5432",true
+4,"American Motors","USA","support@americanmotors.com","+1-555-0102",true
+5,"Precision Tools Co","Switzerland","contact@precisiontools.ch","+41-44-7654321",true
+6,"Oceanic Supplies","Australia","info@oceanic.com.au","+61-2-8765-4321",true
+7,"Nordic Industries","Sweden","sales@nordicindustries.se","+46-8-1234567",true
+8,"Mediterranean Goods","Italy","contact@medgoods.it","+39-06-9876543",true
+9,"UK Manufacturing","United Kingdom","info@ukmfg.co.uk","+44-20-7946-1234",true
+10,"Pacific Rim Tech","South Korea","support@pacrimtech.kr","+82-2-3456-7890",true
+11,"Canadian Products","Canada","sales@canadianproducts.ca","+1-416-555-1234",true
+12,"Brazilian Exports","Brazil","contact@brazilexports.com.br","+55-11-98765-4321",true
+13,"French Innovations","France","info@frenchinnovations.fr","+33-1-2345-6789",true
+14,"Dutch Engineering","Netherlands","support@dutchengineering.nl","+31-20-1234567",true
+15,"Spanish Crafts","Spain","sales@spanishcrafts.es","+34-91-8765432",true
+16,"Indian Solutions","India","contact@indiansolutions.in","+91-80-23456789",true
+17,"Mexican Goods","Mexico","info@mexicangoods.com.mx","+52-55-1234-5678",true
+18,"Russian Industries","Russia","support@russianindustries.ru","+7-495-987-6543",true
+19,"Chinese Manufacturing","China","sales@chinamfg.cn","+86-10-87654321",true
+20,"Taiwan Electronics","Taiwan","contact@taiwanelec.tw","+886-2-23456789",true
+21,"Singapore Tech","Singapore","info@singaporetech.sg","+65-6123-4567",true
+22,"Malaysian Products","Malaysia","support@malaysianproducts.my","+60-3-76543210",true
+23,"Thai Exports","Thailand","sales@thaiexports.co.th","+66-2-9876543",true
+24,"Vietnamese Goods","Vietnam","contact@vietnamesegoods.vn","+84-28-38234567",true
+25,"Philippine Supplies","Philippines","info@philsupplies.ph","+63-2-8123456",true
+26,"New Zealand Natural","New Zealand","support@nznatural.nz","+64-9-3791234",true
+27,"South African Mines","South Africa","sales@southafricanmines.co.za","+27-11-2345678",true
+28,"Egyptian Crafts","Egypt","contact@egyptiancrafts.eg","+20-2-37894561",true
+29,"Turkish Textiles","Turkey","info@turkishtextiles.com.tr","+90-212-3456789",true
+30,"Israeli Tech","Israel","support@israelitech.il","+972-3-7654321",true
+31,"Polish Manufacturing","Poland","sales@polishmfg.pl","+48-22-1234567",true
+32,"Czech Engineering","Czech Republic","contact@czengegineering.cz","+420-234-567890",true
+33,"Hungarian Innovations","Hungary","info@hungarianinnovations.hu","+36-1-4567890",true
+34,"Austrian Precision","Austria","support@austrianprecision.at","+43-1-9876543",true
+35,"Belgian Chocolates","Belgium","sales@belgianchocolates.be","+32-2-3456789",true
+36,"Danish Design","Denmark","contact@danishdesign.dk","+45-32-123456",true
+37,"Finnish Technology","Finland","info@finnishtech.fi","+358-9-8765432",true
+38,"Norwegian Seafood","Norway","support@norwegianseafood.no","+47-22-123456",true
+39,"Portuguese Cork","Portugal","sales@portuguesecork.pt","+351-21-3456789",true
+40,"Greek Olives","Greece","contact@greekolives.gr","+30-21-09876543",true
+41,"Argentinian Beef","Argentina","info@argentinianbeef.com.ar","+54-11-45678901",true
+42,"Chilean Wine","Chile","support@chileanwine.cl","+56-2-23456789",true
+43,"Colombian Coffee","Colombia","sales@colombiancoffee.com.co","+57-1-7654321",true
+44,"Peruvian Textiles","Peru","contact@peruviantextiles.pe","+51-1-4567890",true
+45,"Venezuelan Oil","Venezuela","info@venezuelanoil.com.ve","+58-212-9876543",true
+46,"UAE Trading","United Arab Emirates","support@uaetrading.ae","+971-4-2345678",true
+47,"Saudi Oil Co","Saudi Arabia","sales@saudioilco.com.sa","+966-11-8765432",true
+48,"Qatar Energy","Qatar","contact@qatarenergy.qa","+974-4-1234567",true
+49,"Kuwaiti Petroleum","Kuwait","info@kuwaitipetroleum.kw","+965-23456789",true
+50,"Omani Dates","Oman","support@omanidates.om","+968-24-567890",true
+51,"Bahrain Pearl","Bahrain","sales@bahrainpearl.com.bh","+973-17234567",true
+52,"Jordanian Crafts","Jordan","contact@jordaniancrafts.jo","+962-6-5432109",true
+53,"Lebanese Food","Lebanon","info@lebanesefood.lb","+961-1-7654321",true
+54,"Moroccan Leather","Morocco","support@moroccanleather.ma","+212-522-456789",true
+55,"Tunisian Olive Oil","Tunisia","sales@tunisianoliveoil.tn","+216-71-234567",true
+56,"Algerian Gas","Algeria","contact@algeriangas.dz","+213-21-987654",true
+57,"Libyan Oil","Libya","info@libyanoil.ly","+218-21-4567890",true
+58,"Syrian Textiles","Syria","support@syriantextiles.sy","+963-11-2345678",true
+59,"Iraqi Dates","Iraq","sales@iraqidates.iq","+964-1-7654321",true
+60,"Iranian Carpets","Iran","contact@iraniancarpets.ir","+98-21-34567890",true
+61,"Pakistani Textiles","Pakistan","info@pakistanitextiles.pk","+92-21-45678901",true
+62,"Bangladesh Garments","Bangladesh","support@bangladeshgarments.com.bd","+880-2-9876543",true
+63,"Sri Lankan Tea","Sri Lanka","sales@srilankantea.lk","+94-11-2345678",true
+64,"Nepali Crafts","Nepal","contact@nepalicrafts.np","+977-1-4567890",true
+65,"Bhutanese Products","Bhutan","info@bhutaneseproducts.bt","+975-2-345678",true
+66,"Mongolian Wool","Mongolia","support@mongolianwool.mn","+976-11-23456",true
+67,"Kazakh Oil","Kazakhstan","sales@kazakoil.kz","+7-7172-345678",true
+68,"Uzbek Cotton","Uzbekistan","contact@uzbekcotton.uz","+998-71-4567890",true
+69,"Azeri Caviar","Azerbaijan","info@azericaviar.az","+994-12-3456789",true
+70,"Georgian Wine","Georgia","support@georgianwine.ge","+995-32-2345678",true
+71,"Armenian Brandy","Armenia","sales@armenianbrandy.am","+374-10-456789",true
+72,"Ukrainian Grain","Ukraine","contact@ukrainiangrain.ua","+380-44-3456789",true
+73,"Belarusian Potatoes","Belarus","info@belarusianpotatoes.by","+375-17-4567890",true
+74,"Moldovan Wine","Moldova","support@moldovanwine.md","+373-22-234567",true
+75,"Romanian Wood","Romania","sales@romanianwood.ro","+40-21-4567890",true
+76,"Bulgarian Roses","Bulgaria","contact@bulgarianroses.bg","+359-2-3456789",true
+77,"Serbian Fruits","Serbia","info@serbianfruits.rs","+381-11-4567890",true
+78,"Croatian Olive Oil","Croatia","support@croatianoliveoil.hr","+385-1-2345678",true
+79,"Slovenian Honey","Slovenia","sales@slovenianhoney.si","+386-1-4567890",true
+80,"Slovakian Glass","Slovakia","contact@slovakianglass.sk","+421-2-3456789",true
+81,"Lithuanian Amber","Lithuania","info@lithuanianamber.lt","+370-5-2345678",true
+82,"Latvian Wood","Latvia","support@latvianwood.lv","+371-67-456789",true
+83,"Estonian Tech","Estonia","sales@estoniantech.ee","+372-6-345678",true
+84,"Icelandic Fish","Iceland","contact@icelandicfish.is","+354-5-234567",true
+85,"Maltese Crafts","Malta","info@maltesecrafts.mt","+356-21-456789",true
+86,"Cyprus Halloumi","Cyprus","support@cyprushalloumi.com.cy","+357-22-345678",true
+87,"Luxembourg Finance","Luxembourg","sales@luxfinance.lu","+352-2-4567890",true
+88,"Monaco Luxury","Monaco","contact@monacoluxury.mc","+377-97-234567",true
+89,"Liechtenstein Precision","Liechtenstein","info@liechtensteinprecision.li","+423-234-5678",true
+90,"San Marino Crafts","San Marino","support@sanmarinocrafts.sm","+378-0549-123456",true
+91,"Andorran Ski","Andorra","sales@andorranski.ad","+376-8-12345",true
+92,"Vatican Art","Vatican City","contact@vaticanart.va","+379-06-6982",true
+93,"Monacan Yachts","Monaco","info@monacanyachts.mc","+377-97-345678",true
+94,"Gibraltar Trade","Gibraltar","support@gibraltartrade.gi","+350-200-12345",true
+95,"Faroe Islands Fish","Faroe Islands","sales@faroeislandsfish.fo","+298-234567",true
+96,"Greenland Seafood","Greenland","contact@greenlandseafood.gl","+299-32-1234",true
+97,"Bermuda Shorts","Bermuda","info@bermudashorts.bm","+1-441-295-1234",true
+98,"Cayman Finance","Cayman Islands","support@caymanfinance.ky","+1-345-949-1234",true
+99,"Bahamas Tourism","Bahamas","sales@bahamastourism.bs","+1-242-322-1234",true
+100,"Jamaican Rum","Jamaica","contact@jamaicanrum.jm","+1-876-926-1234",true

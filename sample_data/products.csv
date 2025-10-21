@@ -1,0 +1,101 @@
+product_id,product_name,manufacturer_id,category,unit_cost,unit_price,sku,is_active
+1,"Smartphone X1",1,"Electronics",450,799,"SPX1-001",true
+2,"Laptop Pro 15",1,"Electronics",800,1299,"LP15-002",true
+3,"Wireless Earbuds",2,"Electronics",45,99,"WEB-003",true
+4,"4K Monitor 27in",3,"Electronics",180,299,"4KM27-004",true
+5,"Mechanical Keyboard",4,"Electronics",35,79,"MK-005",true
+6,"Gaming Mouse",5,"Electronics",25,59,"GM-006",true
+7,"Bluetooth Speaker",6,"Electronics",30,69,"BTS-007",true
+8,"Tablet Air",7,"Electronics",220,399,"TA-008",true
+9,"Smart Watch",8,"Electronics",120,249,"SW-009",true
+10,"Fitness Tracker",9,"Electronics",40,89,"FT-010",true
+11,"DSLR Camera",10,"Electronics",500,899,"DC-011",true
+12,"Action Camera",11,"Electronics",150,299,"AC-012",true
+13,"Noise Cancelling Headphones",12,"Electronics",180,349,"NCH-013",true
+14,"Gaming Console",13,"Electronics",300,499,"GC-014",true
+15,"VR Headset",14,"Electronics",200,399,"VR-015",true
+16,"External SSD 1TB",15,"Electronics",80,149,"ESSD1-016",true
+17,"Wireless Charger",16,"Electronics",15,35,"WC-017",true
+18,"USB-C Hub",17,"Electronics",20,45,"UCH-018",true
+19,"Webcam HD",18,"Electronics",35,79,"WHD-019",true
+20,"Microphone Studio",19,"Electronics",90,199,"MS-020",true
+21,"Graphics Card",20,"Electronics",400,749,"GC-021",true
+22,"Motherboard",21,"Electronics",120,249,"MB-022",true
+23,"RAM 16GB",22,"Electronics",60,129,"RAM16-023",true
+24,"Power Supply 750W",23,"Electronics",70,139,"PS750-024",true
+25,"CPU Cooler",24,"Electronics",40,89,"CPUC-025",true
+26,"Computer Case",25,"Electronics",50,119,"CC-026",true
+27,"Network Switch",26,"Electronics",80,159,"NS-027",true
+28,"WiFi Router",27,"Electronics",45,99,"WR-028",true
+29,"Smart Home Hub",28,"Electronics",60,129,"SHH-029",true
+30,"Security Camera",29,"Electronics",70,149,"SC-030",true
+31,"Robot Vacuum",30,"Electronics",180,349,"RV-031",true
+32,"Air Purifier",31,"Home Appliances",80,169,"AP-032",true
+33,"Coffee Maker",32,"Home Appliances",45,99,"CM-033",true
+34,"Blender Pro",33,"Home Appliances",35,79,"BP-034",true
+35,"Toaster Oven",34,"Home Appliances",30,69,"TO-035",true
+36,"Microwave",35,"Home Appliances",60,129,"MW-036",true
+37,"Refrigerator",36,"Home Appliances",400,799,"RF-037",true
+38,"Washing Machine",37,"Home Appliances",300,599,"WM-038",true
+39,"Dishwasher",38,"Home Appliances",250,499,"DW-039",true
+40,"Air Conditioner",39,"Home Appliances",350,699,"AC-040",true
+41,"Water Heater",40,"Home Appliances",150,299,"WH-041",true
+42,"Electric Kettle",41,"Home Appliances",20,45,"EK-042",true
+43,"Food Processor",42,"Home Appliances",55,119,"FP-043",true
+44,"Stand Mixer",43,"Home Appliances",90,199,"SM-044",true
+45,"Pressure Cooker",44,"Home Appliances",40,89,"PC-045",true
+46,"Rice Cooker",45,"Home Appliances",25,59,"RC-046",true
+47,"Slow Cooker",46,"Home Appliances",30,69,"SC-047",true
+48,"Juicer",47,"Home Appliances",35,79,"J-048",true
+49,"Ice Maker",48,"Home Appliances",100,219,"IM-049",true
+50,"Dehumidifier",49,"Home Appliances",80,169,"DH-050",true
+51,"Office Chair",50,"Furniture",75,159,"OC-051",true
+52,"Desk Executive",51,"Furniture",120,249,"DE-052",true
+53,"Bookshelf",52,"Furniture",40,89,"BS-053",true
+54,"Filing Cabinet",53,"Furniture",50,109,"FC-054",true
+55,"Conference Table",54,"Furniture",200,399,"CT-055",true
+56,"Reception Desk",55,"Furniture",150,299,"RD-056",true
+57,"Ergonomic Chair",56,"Furniture",100,219,"EC-057",true
+58,"Standing Desk",57,"Furniture",180,349,"SD-058",true
+59,"Office Lamp",58,"Furniture",25,55,"OL-059",true
+60,"Monitor Stand",59,"Furniture",15,35,"MS-060",true
+61,"Keyboard Tray",60,"Furniture",20,45,"KT-061",true
+62,"Desk Organizer",61,"Office Supplies",10,25,"DO-062",true
+63,"Stapler",62,"Office Supplies",5,12,"S-063",true
+64,"Paper Shredder",63,"Office Supplies",40,89,"PS-064",true
+65,"Calculator",64,"Office Supplies",8,19,"C-065",true
+66,"Printer",65,"Office Supplies",80,169,"P-066",true
+67,"Scanner",66,"Office Supplies",60,129,"S-067",true
+68,"Label Maker",67,"Office Supplies",25,59,"LM-068",true
+69,"Whiteboard",68,"Office Supplies",30,69,"W-069",true
+70,"Projector",69,"Office Supplies",200,399,"P-070",true
+71,"Binding Machine",70,"Office Supplies",45,99,"BM-071",true
+72,"Laminator",71,"Office Supplies",35,79,"L-072",true
+73,"Paper Cutter",72,"Office Supplies",20,45,"PC-073",true
+74,"Hole Punch",73,"Office Supplies",8,18,"HP-074",true
+75,"Staple Remover",74,"Office Supplies",2,5,"SR-075",true
+76,"Desk Calendar",75,"Office Supplies",5,12,"DC-076",true
+77,"Pen Set",76,"Office Supplies",8,19,"PS-077",true
+78,"Notebook",77,"Office Supplies",3,8,"N-078",true
+79,"File Folders",78,"Office Supplies",4,10,"FF-079",true
+80,"Binder",79,"Office Supplies",6,14,"B-080",true
+81,"T-shirt Cotton",80,"Clothing",8,19,"TSC-081",true
+82,"Jeans Denim",81,"Clothing",15,35,"JD-082",true
+83,"Sneakers",82,"Footwear",25,59,"S-083",true
+84,"Dress Shirt",83,"Clothing",20,45,"DS-084",true
+85,"Winter Jacket",84,"Clothing",45,99,"WJ-085",true
+86,"Baseball Cap",85,"Clothing",6,15,"BC-086",true
+87,"Running Shoes",86,"Footwear",30,69,"RS-087",true
+88,"Backpack",87,"Accessories",25,59,"B-088",true
+89,"Wallet",88,"Accessories",12,29,"W-089",true
+90,"Sunglasses",89,"Accessories",15,35,"S-090",true
+91,"Watch Leather",90,"Accessories",50,119,"WL-091",true
+92,"Belt",91,"Accessories",10,24,"B-092",true
+93,"Handbag",92,"Accessories",35,79,"H-093",true
+94,"Scarf",93,"Accessories",8,19,"S-094",true
+95,"Gloves",94,"Accessories",6,15,"G-095",true
+96,"Umbrella",95,"Accessories",12,29,"U-096",true
+97,"Luggage Set",96,"Accessories",80,169,"LS-097",true
+98,"Tie Silk",97,"Accessories",15,35,"TS-098",true
+99,"Socks Pack",98,"Clothing",5,12,"SP-099",true
+100,"Underwear Pack",99,"Clothing",8,19,"UP-100",true
